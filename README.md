@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshayyborse/akshayyborse/main/assets/banner.png" alt="Akshay Borse - Frontend Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/akshayyborse/akshayyborse/banner.png" alt="Akshay Borse - Frontend Developer Banner" width="100%" />
 </p>
 
 # Hi there 👋  
