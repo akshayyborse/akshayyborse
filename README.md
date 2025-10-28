@@ -13,7 +13,7 @@ Frontend Engineer | Crafting AI-powered web & UI experiences
 - Passionate about building intuitive, high-performance web apps using modern frontend technologies.  
 - Constantly exploring how AI and machine learning can enhance UIs and user experiences.  
 - Lover of clean design, meaningful animations, and subtle micro-interactions.  
-- Based in Ahmedabad, Gujarat, India — open to collaborate remotely or locally.
+- Based in Surat, Gujarat, India — open to collaborate remotely or locally.
 
 ---
 
