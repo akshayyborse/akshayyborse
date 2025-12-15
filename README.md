@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="banner.png" alt="Akshay Borse - Frontend Developer Banner" width="100%" />
+  <img src="banner.gif" alt="Akshay Borse - Frontend Developer Banner" width="100%" />
 </p>
 
 # Hi there 👋  
